@@ -1,1 +1,1 @@
-# minioroject-2024
+# miniproject-2024
