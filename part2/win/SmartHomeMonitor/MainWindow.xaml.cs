@@ -59,10 +59,14 @@ namespace SmartHomeMonitoringApp
 
         private void MnuDataBaseMon_Click(object sender, RoutedEventArgs e)
         {
+            ActiveItem.Content = new Views.DataBaseControl();
+            StsSelScreen.Content = "데이터베이스 모니터링";
         }
 
         private void MnuRealTimeMon_Click(object sender, RoutedEventArgs e)
         {
+            ActiveItem.Content = new Views.RealTimeControl();
+            StsSelScreen.Content = "실시간 모니터링";
         }
 
         private void MnuVisualizationMon_Click(object sender, RoutedEventArgs e)
@@ -73,14 +77,6 @@ namespace SmartHomeMonitoringApp
         {
         }
 
-        private void MnuDataBaseMon_Click_1(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void MnuRealTimeMon_Click_1(object sender, RoutedEventArgs e)
-        {
-
-        }
+        
     }
 }

@@ -64,6 +64,11 @@
                             <iconPacks:PackIconMaterial Kind="GaugeLow" />
                         </MenuItem.Icon>
                     </MenuItem>
+                    <MenuItem x:Name="MnuVisualization" Header="시각화모니터링" Click="MnuVisualizationMon_Click">
+                        <MenuItem.Icon>
+                            <iconPacks:PackIconMaterial Kind="ChartMultiline" />
+                        </MenuItem.Icon>
+                    </MenuItem> 
                 </MenuItem>
                 <MenuItem Header="도움말">
                     <MenuItem.Icon>
