@@ -56,14 +56,14 @@ IoT 개발자 미니프로젝트 리포지토리
 - 라즈베리파이 셋팅 
     1. RPi 기본 구성 - RPi + MicroSD + Power
     2. RPi 기본 셋팅
-        [x] 최신 업그레이드
-        [x] 한글화
-        [x] 키보드 변경
-        [x] 화면사이즈 변경(RealVNC사용)
-        [x] Pi Apps 앱설치 도우미 앱
-        [x] Github Desktop, VS Code
-        [x] 네트워크 확인
-        - RealVNC Server 자동실행 설정
+       - [x] 최신 업그레이드
+       - [x] 한글화
+       - [x] 키보드 변경
+       - [x] 화면사이즈 변경(RealVNC사용)
+       - [x] Pi Apps 앱설치 도우미 앱
+       - [x] Github Desktop, VS Code
+       - [x] 네트워크 확인
+       - [ ] RealVNC Server 자동실행 설정 - 할 필요 없음
 
 - 스마트홈 연동 클래스 미니프로젝트
     - RPi 셋팅... 진행
