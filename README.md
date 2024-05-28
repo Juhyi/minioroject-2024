@@ -131,11 +131,11 @@ IoT 개발자 미니프로젝트 리포지토리
         - LiveChart2는 차후에 다시, 현재는 OxyPlot 차트 대체
     - 실행결과
 
-        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniprojects-2024/main/images/mp002.png)
+        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniproject-2024/main/images/mp002.png)
 
-        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniprojects-2024/main/images/mp003.png)
+        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniproject-2024/main/images/mp003.png)
 
-        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniprojects-2024/main/images/mp004.png)
+        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniproject-2024/main/images/mp004.png)
 
 
 
