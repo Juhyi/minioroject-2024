@@ -5,7 +5,7 @@ IoT 개발자 미니프로젝트 리포지토리
 - 조별 자리배치
 - IoT 프로젝트 개요
 
-    ![IoT프로젝트](https://raw.githubusercontent.com/hugoMGSung/miniprojects-2024/main/images/mp001.png)
+    ![IoT프로젝트](https://raw.githubusercontent.com/Juhyi/miniproject-2024/main/images/mp001.png)
 
     1. IoT기기 구성 - 아두이노, 라즈베리파이 등 IoT장비들과 연결
     2. 서버 구성 - IoT기기와 통신, DB구성, 데이터 수집 앱 개발
@@ -93,21 +93,12 @@ IoT 개발자 미니프로젝트 리포지토리
     - 프로젝트 결정사항 공유
     - 발표자료 준비
 
-<<<<<<< Updated upstream
 ## 6, 7일차
 - 네트워크 대공사
     [x] 개인공유기, PC, 라즈베리파이
     
 - 스마트홈 연동 클래스 미니프로젝트
     - 온습도 센서, RGB LED 
-=======
-## 6,7일차
-- 네트워크 대공사 
-    [x] 개인공유기, PC, 라즈베리파이
-
-- 스마트홈 연동 클래스 미니프로젝트
-    - 온습도 센서, RGB LEDss
->>>>>>> Stashed changes
     - RPi <--> Windows 통신(MQTT)
     - WPF 모니터링 앱
 
@@ -127,9 +118,26 @@ IoT 개발자 미니프로젝트 리포지토리
 ## 9일차
 - 스마트홈 연동 클래스 미니프로젝트
     - [X] WPF 수신 MQTT데이터 DB로 저장
-    - [X] MQTT데이터 실시간 모니터링 - 습도
+    - [X] MQTT데이터 실시간 모니터링 - 온도
     - [ ] MQTT로 RPi 제어(LED제어)
     - [ ] WPF MQTT데이터 히스토리 확인
+
+## 10일차
+- 스마트홈 연동 클래스 미니프로젝트 마무리
+    - [x] WPF 수신 MQTT데이터 DB로 저장
+    - [X] MQTT데이터 실시간 모니터링 - 습도
+    - [X] MQTT로 RPi 제어 (LED제어)
+    - [X] WPF MQTT데이터 히스토리 확인
+        - LiveChart2는 차후에 다시, 현재는 OxyPlot 차트 대체
+    - 실행결과
+
+        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniprojects-2024/main/images/mp002.png)
+
+        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniprojects-2024/main/images/mp003.png)
+
+        ![스마트홈](https://raw.githubusercontent.com/Juhyi/miniprojects-2024/main/images/mp004.png)
+
+
 
 - 조별 미니프로젝트 발표
     - 1~5조까지
